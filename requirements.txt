@@ -1,5 +1,5 @@
 
-allure-pytest==2.13.3
+allure-pytest==2.8.16
 allure-python-commons==2.8.15
 enum34==1.1.10
 execnet==1.7.1
