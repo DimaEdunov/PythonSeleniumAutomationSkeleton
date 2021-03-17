@@ -94,7 +94,7 @@ def driver(request):
     crm_main_screen.go_to()
 
     # Step 2: Sign in the crm
-    crm_main_screen.sign_in("new", "CrmUser", CrmPassword)
+    crm_main_screen.sign_in("new", "CrmUser", "CrmPassword")
 
     # Step 3: sign in verification
     crm_main_screen.sign_in_verification()
