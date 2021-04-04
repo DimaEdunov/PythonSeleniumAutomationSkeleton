@@ -186,11 +186,11 @@ def driver_ca(request):
 
 # Brand URL's
 def get_brand_url(brand_name):
-    if brand_name == "newforexqa2":
-        return {"crm": "xxxxxx", "ca": "https:xxxxxxx"}
+    if brand_name == "analystq":
+        return {"crm": "www.analystq.ptscrm.com", "ca": "https://www.analystq.com"}
 
     if brand_name == "newforexstage2":
-        return {"crm": "yyyyyyyyy", "ca": "yyyyyyyyyyyy"}
+        return {"crm": "https://www.google.com", "ca": "https://www.google.com"}
 
 
 # POST SESSION actions - HTML report sending by email, Allure report auto open

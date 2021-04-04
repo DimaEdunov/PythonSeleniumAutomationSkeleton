@@ -12,7 +12,7 @@ import os
 
 
 """Run dev suite """
-os.system("pytest -v -s --alluredir="'C:\AllureReports\Data'" --html=report.html --developer=dima --self-contained-html -m=dev --brand=newforexstage2 --headless=False")
+os.system("pytest -v -s --alluredir="'C:\AllureReports\Data'" --html=report.html --developer=dima --self-contained-html -m=dev --brand=analystq --headless=False")
 
 """Run environment preparation suite """
 #os.system("pytest -v -s --alluredir="'C:\AllureReports\Data'" --html=report.html --developer=dima --self-contained-html -m=environment --brand=onorio --dist=loadfile -n=2 --headless=False")

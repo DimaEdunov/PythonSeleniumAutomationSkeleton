@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,29 +75,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1338" height="218" key="GridCell.Tab.0.bottom" timestamp="1616016543088">
+    <state width="1338" height="205" key="GridCell.Tab.0.bottom" timestamp="1617559753283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1338" height="218" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616016543088" />
-    <state width="1338" height="218" key="GridCell.Tab.0.center" timestamp="1616016543088">
+    <state width="1338" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617559753283" />
+    <state width="1338" height="205" key="GridCell.Tab.0.center" timestamp="1617559753283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1338" height="218" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616016543088" />
-    <state width="1338" height="218" key="GridCell.Tab.0.left" timestamp="1616016543088">
+    <state width="1338" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617559753283" />
+    <state width="1338" height="205" key="GridCell.Tab.0.left" timestamp="1617559753283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1338" height="218" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616016543088" />
-    <state width="1338" height="218" key="GridCell.Tab.0.right" timestamp="1616016543088">
+    <state width="1338" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617559753283" />
+    <state width="1338" height="205" key="GridCell.Tab.0.right" timestamp="1617559753283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1338" height="218" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616016543088" />
-    <state x="75" y="0" key="SettingsEditor" timestamp="1615839174234">
+    <state width="1338" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617559753283" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1617559671844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615839174234" />
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1616016235824">
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617559671844" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1617559672218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1616016235824" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1617559672218" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2" timestamp="1617559672218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1617559672218" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-3" timestamp="1617559757976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1617559757976" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-4" timestamp="1617559757976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-4/0.0.1366.728@0.0.1366.728" timestamp="1617559757976" />
+    <state x="317" y="27" width="731" height="674" key="find.popup" timestamp="1617559676571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="27" width="731" height="674" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1617559676571" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1617559484171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617559484171" />
   </component>
 </project>
