@@ -24,6 +24,7 @@ from src.tests.conftest import get_brand_url
 
 @pytest.mark.usefixtures("driver", "brand")
 class Test_Api:
+    
     @pytest.mark.regression
     @pytest.mark.sanity
     @allure.feature('Api')
